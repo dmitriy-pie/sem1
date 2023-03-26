@@ -1,0 +1,15 @@
+/Users/dmitriy_pie/Desktop/sem1/obj001_square/bin/Debug/net6.0/obj001_square
+/Users/dmitriy_pie/Desktop/sem1/obj001_square/bin/Debug/net6.0/obj001_square.deps.json
+/Users/dmitriy_pie/Desktop/sem1/obj001_square/bin/Debug/net6.0/obj001_square.runtimeconfig.json
+/Users/dmitriy_pie/Desktop/sem1/obj001_square/bin/Debug/net6.0/obj001_square.dll
+/Users/dmitriy_pie/Desktop/sem1/obj001_square/bin/Debug/net6.0/obj001_square.pdb
+/Users/dmitriy_pie/Desktop/sem1/obj001_square/obj/Debug/net6.0/obj001_square.csproj.AssemblyReference.cache
+/Users/dmitriy_pie/Desktop/sem1/obj001_square/obj/Debug/net6.0/obj001_square.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitriy_pie/Desktop/sem1/obj001_square/obj/Debug/net6.0/obj001_square.AssemblyInfoInputs.cache
+/Users/dmitriy_pie/Desktop/sem1/obj001_square/obj/Debug/net6.0/obj001_square.AssemblyInfo.cs
+/Users/dmitriy_pie/Desktop/sem1/obj001_square/obj/Debug/net6.0/obj001_square.csproj.CoreCompileInputs.cache
+/Users/dmitriy_pie/Desktop/sem1/obj001_square/obj/Debug/net6.0/obj001_square.dll
+/Users/dmitriy_pie/Desktop/sem1/obj001_square/obj/Debug/net6.0/refint/obj001_square.dll
+/Users/dmitriy_pie/Desktop/sem1/obj001_square/obj/Debug/net6.0/obj001_square.pdb
+/Users/dmitriy_pie/Desktop/sem1/obj001_square/obj/Debug/net6.0/obj001_square.genruntimeconfig.cache
+/Users/dmitriy_pie/Desktop/sem1/obj001_square/obj/Debug/net6.0/ref/obj001_square.dll
